@@ -13,11 +13,8 @@ Here is a little introduction about me
 ### Languages and Tools:
 
 Main IDE that i use <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-
 Most of my work is about this library <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-
 Obv the Language that is needed for node.js <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-
 Discord.js and express.js wouldn't work without this <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 
 
