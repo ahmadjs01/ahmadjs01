@@ -8,7 +8,8 @@ Here is a little introduction about me
 ```
 - 🌱 I'm working with discord.js and express.js which both use node.js
 - 💎 I make open source projects
-- ⚡ Fun fact: I'am a Moderator in CodingSchool: https://discord.gg/FSCrkqKFvz
+- ⚡ Fun fact: I am the Founder of: https://aniguard.xyz
+- ⚡ Fun fact: I'am a Developer at: https://german-host.io
 
 ### Languages and Tools:
 
