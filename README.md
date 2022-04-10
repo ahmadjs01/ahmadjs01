@@ -2,13 +2,9 @@
   <img align="center" src="banner.png" />
 </a>
 
-```js
-<Who am I?>
-Here is a little introduction about me
-```
-- 🌱 I'm working with discord.js and express.js which both use node.js
+- 🌱 I'm a Web and Discord Bot Devloper using Javascript
 - 💎 I make open source projects
-- ⚡ Fun fact: I am the Founder of: https://github.com/Ani-PI
+- ⚡ I am the Founder of: https://github.com/Ani-PI
 
 ### Languages and Tools:
 
