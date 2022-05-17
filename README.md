@@ -3,6 +3,7 @@
     <img src="./Pictures/git-Banner.gif" width="500px"/>
   </a>
   <h2>Social Links</h2>
+  <br>
     <a href="https://github.com/ahmadjs01">
       <img src="./Pictures/github.png" width="30px"/>
     </a>
@@ -28,9 +29,23 @@
     Here are some Languages and Tools I use for my daily Development
   </p>
    <a href="https://code.visualstudio.com">
-    <img src="./Pictures/VSCode.png" width="30px"/>
+    <img src="./Pictures/VSCode.png" width="35px"/>
    </a>
-  <a href="">
-    <img src="./Pictures/Javascript.png" width="30px"/>
+  <a href="https://devdocs.io/javascript/">
+    <img src="./Pictures/js.png" width="35px"/>
+   </a>
+  <a href="https://www.w3schools.com/html/default.asp">
+    <img src="./Pictures/html.png" width="35px"/>
+   </a>
+  <a href="https://www.w3schools.com/css/default.asp">
+    <img src="./Pictures/css.png" width="25px"/>
+   </a>
+  <a href="https://nodejs.org/en/">
+    <img src="./Pictures/nodejs.png" width="35px"/>
+   </a>
+  <br>
+  <h2> My Github Stats </h2>
+   <a href="https://github.com/ahmadjs01">
+     <img src="https://github-readme-stats.vercel.app/api?username=ahmadjs01&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=8b155a&hide_border=true/"/>
    </a>
 </div>
