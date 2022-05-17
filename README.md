@@ -52,6 +52,6 @@
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjs01&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8b155a&ring=8b155a&stroke=FFFFFFFF)](https://git.io/streak-stats"/>
    </a>
   <a href="https://github.com/ahmadjs01">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjs01&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=8b155a&hide_border=true//>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjs01&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=8b155a&hide_border=true/"/>
    </a>
 </div>
