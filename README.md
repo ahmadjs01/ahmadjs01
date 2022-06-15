@@ -13,7 +13,7 @@
     
   <br>
     
-  <h2>Hey I'm Ahmad. Wolcome to my Github Page 🙂</h2>
+  <h2>Hey I'm Ahmad. Welcome to my Github Page 🙂</h2>
     
 
   <br>
